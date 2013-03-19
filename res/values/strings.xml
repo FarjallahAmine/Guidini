@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Guidini</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Guidini</string>
+    <string name="events">Evénements</string>
+    <string name="plan">Plan du jour</string>
+    <string name="guide">Guide</string>
+    <string name="params">Paramètres</string>
+    <string name="centres">Centres d\'intérêt</string>
+    <string name="tools">Utilitaires</string>
+    <string name="title_activity_tocenters">TocentersActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_plan_du_jour">PlanDuJourActivity</string>
+
+</resources>
